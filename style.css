@@ -1,0 +1,350 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:cornflowerblue;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.design-1{
+    position: absolute;
+    width: 30%;
+    height: 18%;
+    background: #050505;
+    top: 90%;
+box-shadow: 0px 34px 70px rgba(0, 0, 0, 0.25);
+border-top-right-radius: 80px 100px;
+}
+.design-2{
+    position: absolute;
+    width: 87%;
+    height: 45%;
+    background: #050505;
+    top: -26%;
+    left: 70%;
+    box-shadow: 0px 34px 70px rgb(0 0 0 / 25%);
+    border-radius: 300px;
+    transform: rotate(150deg);
+}
+.note-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 24px;
+    gap: 190px;
+    isolation: isolate;
+    position: absolute;
+    width: 25%;
+    height: 23%;
+    top: 12%;
+    left: 4%;
+    background: #FFFFFF;
+box-shadow: 0px 21.7001px 47.625px #4747B9;
+}
+p.text_1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 21px;
+    padding: 16% 23%;
+color: #000000;
+}
+.black_1{
+    background: #050505;
+box-shadow: 15px 18px 30px rgba(57, 57, 188, 0.16);
+position: absolute;
+width: 85%;
+height: 40%;
+left: 0%;
+top: -15%;
+}
+.black_1 .male_1{
+    position: absolute;
+    width: 30%;
+    height: 128%;
+    left: -8%;
+    top: -10%;
+}
+h4.head_1{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.7rem;
+    line-height: 21px;
+    padding: 4% 28%;
+color: white;
+}
+h4.head_2{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.6rem;
+    line-height: 21px;
+    padding: 10% 28%;
+color: white;
+}
+.star{
+display: flex;
+flex-direction: row;
+gap: 10px;
+justify-content: right;
+padding-right: 3%;
+padding-top: 4%;
+}
+.star_1{
+   width:4%; 
+}
+.star_2{
+    width: 4%;
+}
+.star_3{
+    width: 4%;
+}
+.star_4{
+    width: 4%;
+}
+.star_5{
+    width: 4%;
+}
+.like_1{
+    position: absolute;
+    left: 65%;
+    width: 5%;
+    top: 45%;
+}
+.testimonial_1{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 90%;
+    line-height: 21px;
+    padding: 1% 72%;
+color: white;
+}
+.comma_1{
+    position: absolute;
+    width: 20%;
+    height: 30%;
+    left: 10%;
+    top: 85%;
+}
+.note-2{
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0px 0px 24px;
+        gap: 190px;
+        isolation: isolate;
+        position: absolute;
+        width: 25%;
+        height: 23%;
+        top: 38%;
+        left: 36%;
+        background: #FFFFFF;
+    box-shadow: 0px 21.7001px 47.625px #4747B9;
+}
+p.text_2{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 21px;
+    padding: 14% 23%;
+color: #000000;
+}
+.black_2{
+    background: #050505;
+box-shadow: 15px 18px 30px rgba(57, 57, 188, 0.16);
+position: absolute;
+width: 85%;
+height: 40%;
+left: 0%;
+top: -15%;
+}
+.black_2 .male_2{
+    position: absolute;
+    width: 30%;
+    height: 128%;
+    left: -8%;
+    top: -10%;
+}
+h4.head_3{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.7rem;
+    line-height: 21px;
+    padding: 4% 28%;
+color: white;
+}
+h4.head_4{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.6rem;
+    line-height: 21px;
+    padding: 10% 28%;
+color: white;
+}
+.star-2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: right;
+    padding-right: 3%;
+    padding-top: 4%;
+    }
+    .star_6{
+       width:4%; 
+    }
+    .star_7{
+        width: 4%;
+    }
+    .star_8{
+        width: 4%;
+    }
+    .star_9{
+        width: 4%;
+    }
+    .star_10{
+        width: 4%;
+    }
+    .like_2{
+        position: absolute;
+        left: 65%;
+        width: 5%;
+        top: 45%;
+    }
+    .testimonial_2{
+        position: absolute;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 90%;
+        line-height: 21px;
+        padding: 1% 72%;
+    color: white;
+    }
+    .comma_2{
+        position: absolute;
+        width: 20%;
+        height: 30%;
+        left: 10%;
+        top: 85%;
+    }
+    .note-3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0px 0px 24px;
+        gap: 190px;
+        isolation: isolate;
+        position: absolute;
+        width: 25%;
+        height: 23%;
+        top: 64%;
+        left: 72%;
+        background: #FFFFFF;
+    box-shadow: 0px 21.7001px 47.625px #4747B9;
+}
+.black_3{
+    background: #050505;
+box-shadow: 15px 18px 30px rgba(57, 57, 188, 0.16);
+position: absolute;
+width: 85%;
+height: 40%;
+left: 0%;
+top: -15%;
+}
+p.text_3{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 21px;
+    padding: 14% 23%;
+color: #000000;
+}
+.black_3 .male_3{
+    position: absolute;
+    width: 30%;
+    height: 128%;
+    left: -8%;
+    top: -10%;
+}
+h4.head_5{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.7rem;
+    line-height: 21px;
+    padding: 4% 28%;
+color: white;
+}
+h4.head_6{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.6rem;
+    line-height: 21px;
+    padding: 10% 28%;
+color: white;
+}
+.star-3{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: right;
+    padding-right: 3%;
+    padding-top: 4%;
+    }
+    .star_11{
+       width:4%; 
+    }
+    .star_12{
+        width: 4%;
+    }
+    .star_13{
+        width: 4%;
+    }
+    .star_14{
+        width: 4%;
+    }
+    .star_15{
+        width: 4%;
+    }
+    .like_3{
+        position: absolute;
+        left: 65%;
+        width: 5%;
+        top: 45%;
+    }
+    .testimonial_3{
+        position: absolute;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 90%;
+        line-height: 21px;
+        padding: 1% 72%;
+    color: white;
+    }
+    .comma_3{
+        position: absolute;
+        width: 20%;
+        height: 30%;
+        left: 10%;
+        top: 85%;
+    }
